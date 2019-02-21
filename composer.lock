@@ -51,12 +51,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lezhnev74/openapi-reader.git",
-                "reference": "a568388f19e5fe23be219fcbff6a040b30af92f6"
+                "reference": "1a20dea8ac83124b7619025859e1e2c75895424b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lezhnev74/openapi-reader/zipball/a568388f19e5fe23be219fcbff6a040b30af92f6",
-                "reference": "a568388f19e5fe23be219fcbff6a040b30af92f6",
+                "url": "https://api.github.com/repos/lezhnev74/openapi-reader/zipball/1a20dea8ac83124b7619025859e1e2c75895424b",
+                "reference": "1a20dea8ac83124b7619025859e1e2c75895424b",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
             "support": {
                 "source": "https://github.com/lezhnev74/openapi-reader/tree/master"
             },
-            "time": "2019-02-21T13:03:33+00:00"
+            "time": "2019-02-21T13:14:21+00:00"
         },
         {
             "name": "opis/json-schema",
